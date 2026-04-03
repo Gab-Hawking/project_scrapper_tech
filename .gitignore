@@ -8,3 +8,4 @@ credentials.*
 .venv/
 venv/
 node_modules/
+output/
